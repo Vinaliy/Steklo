@@ -1,1 +1,45 @@
 div.jumbotron.carousel-hero{color:#fff;text-align:center;background-size:cover;background-position:center;padding-top:100px;padding-bottom:100px;margin-bottom:0}div.jumbotron.hero-nature{background-image:url(/assets/img/architect-at-the-construction.jpg?h=7b13db586f5ab98191e91d6d963e1f7f)}div.jumbotron.hero-photography{background-image:url(/assets/img/architects-and-worker.jpg?h=f85f70e446dd8ff3debacee1c5e04bc6)}div.jumbotron.hero-technology{background-image:url(/assets/img/young-college-students.jpg?h=3b924573ccef909c6753a54c7f30caf1)}h1.hero-title,h2.hero-title,h3.hero-title{text-shadow:0 3px 3px rgba(0,0,0,.4);color:#fff}p.hero-subtitle{max-width:600px;margin:25px auto;padding:10px 15px;color:#fff}.plat{border-radius:0}.btn-primary.focus,.btn-primary:focus{box-shadow:0 0 0 0 #048f83!important}.btn-primary:hover{color:#fff;background-color:#016090;border-color:#016090}.btn.btn-primary{background-color:#048f83!important;border-color:#048f83!important}span{font-style:inherit;font-weight:inherit}
+.carousel-my-caption {
+	position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+.hed-text {
+	top: 100px;
+	position: absolute;
+	z-index: 2000;
+	margin-top: 50px;
+	left: 10%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 25px;
+	padding-right: 25px;
+	background-color: rgba(59, 87, 118, 0.37);
+	color: #fff;
+}
+.hed-text-2 {
+	top: 250px;
+	position: absolute;
+	z-index: 2000;
+	margin-top: 50px;
+	 right: 10%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 25px;
+	padding-right: 25px;
+	background-color: rgba(59, 87, 118, 0.37);
+	color: #fff;
+}
+#main_content-1 {
+	padding-top: 20px;
+}
+#main_content-2 {
+	padding-top: 20px;
+
+}
