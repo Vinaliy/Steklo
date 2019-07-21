@@ -68,14 +68,21 @@ div.jumbotron.carousel-hero{color:#fff;text-align:center;background-size:cover;b
 	border: 1px solid #FFFFFF;
 }
 .a-hover :hover {
-	background-color: #a68e18;
+	background-color: #a68e18 !important;
 }
 
 #zayvka {
 	display:none !important;
 }
-
-
+.zajv {
+	width: 50%;
+    margin-bottom: 1.5em;
+    background-color: #457696;
+    border: 0;
+}
+.zajv:hover{
+	background-color: #a68e18 !important;	
+}
 @media (max-width: 600px) {
 .vidget_zajvka {
 	display:none !important;
