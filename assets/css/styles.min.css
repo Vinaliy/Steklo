@@ -52,3 +52,36 @@ div.jumbotron.carousel-hero{color:#fff;text-align:center;background-size:cover;b
 	padding-bottom: 0.2em;
     padding-top: 0.2em;
 }
+.vidget_zajvka {
+	width: 200px;
+	height: 60px;
+	background-color: #457696;
+	position: fixed;
+	z-index: 10000;
+	right: 3%;
+	left: auto;
+	bottom: 12%;
+	top: auto;
+	border-radius: 5px;
+	-webkit-box-shadow: 2px 2px 5px rgba(41, 53, 71, 0.44);
+	box-shadow: 2px 2px 5px rgba(41, 53, 71, 0.44);
+	border: 1px solid #FFFFFF;
+}
+.a-hover :hover {
+	background-color: #a68e18;
+}
+
+#zayvka {
+	display:none !important;
+}
+
+
+@media (max-width: 600px) {
+.vidget_zajvka {
+	display:none !important;
+}
+#zayvka {
+	display:block !important;
+}
+}
+
