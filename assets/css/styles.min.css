@@ -11,10 +11,9 @@ div.jumbotron.carousel-hero{color:#fff;text-align:center;background-size:cover;b
     text-align: center;
 }
 .hed-text {
-	top: 100px;
+	top: 50px;
 	position: absolute;
 	z-index: 2000;
-	margin-top: 50px;
 	left: 10%;
 	padding-top: 20px;
 	padding-bottom: 20px;
